@@ -118,6 +118,11 @@ New checks
 
   Reports identifier with unicode right-to-left characters.
 
+- New :doc:`misc-refactor-autoexpand
+  <clang-tidy/checks/misc-refactor-autoexpand>` check.
+
+  FIXME: add release notes.
+
 - New :doc:`readability-container-data-pointer
   <clang-tidy/checks/readability-container-data-pointer>` check.
 

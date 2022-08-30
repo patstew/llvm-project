@@ -220,6 +220,7 @@ Clang-Tidy Checks
    `misc-non-copyable-objects <misc-non-copyable-objects.html>`_,
    `misc-non-private-member-variables-in-classes <misc-non-private-member-variables-in-classes.html>`_,
    `misc-redundant-expression <misc-redundant-expression.html>`_, "Yes"
+   `misc-refactor-autoexpand <misc-refactor-autoexpand.html>`_, "Yes"
    `misc-static-assert <misc-static-assert.html>`_, "Yes"
    `misc-throw-by-value-catch-by-reference <misc-throw-by-value-catch-by-reference.html>`_,
    `misc-unconventional-assign-operator <misc-unconventional-assign-operator.html>`_,
